@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<version.io.swagger>2.7.0</version.io.swagger>
+		<version.io.swagger>2.10.0</version.io.swagger>
 	</properties>
 
 	<dependencies>
